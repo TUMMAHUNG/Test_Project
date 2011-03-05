@@ -1,0 +1,4 @@
+C:\home\projects\wg7\wg7\wg7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\Lecture53_3\423413 ADVANCED TOPICS IN APPLICATION SOFTWARE\XNA_GAME\wg7\wg7\wg7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\AVTS\Project\Funny-Foods\wg7\Funny-Foods\wg7\wg7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\Funny-Foods\wg7\wg7Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

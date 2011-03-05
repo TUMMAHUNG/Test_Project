@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\circle.xnb</Output>
+      <Time>2011-03-03T22:08:57.8875639+07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite.png</Source>
+      <Name>sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\sprite.xnb</Output>
+      <Time>2011-03-03T22:08:57.8925639+07:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\bg.xnb</Output>
+      <Time>2011-03-01T15:49:14.2966622+07:00</Time>
+    </Item>
+    <Item>
+      <Source>character3.png</Source>
+      <Name>character3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\character3.xnb</Output>
+      <Time>2011-03-02T18:24:17.8491322+07:00</Time>
+    </Item>
+    <Item>
+      <Source>character_Boy1.png</Source>
+      <Name>character_Boy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\character_Boy1.xnb</Output>
+      <Time>2011-03-03T22:28:20.8277975+07:00</Time>
+    </Item>
+    <Item>
+      <Source>character_Girl1.png</Source>
+      <Name>character_Girl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\character_Girl1.xnb</Output>
+      <Time>2011-03-03T22:28:20.8237973+07:00</Time>
+    </Item>
+    <Item>
+      <Source>character_Girl2.png</Source>
+      <Name>character_Girl2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\character_Girl2.xnb</Output>
+      <Time>2011-03-03T22:58:59.6849741+07:00</Time>
+    </Item>
+    <Item>
+      <Source>ghost_bg.png</Source>
+      <Name>ghost_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\ghost_bg.xnb</Output>
+      <Time>2011-03-01T16:03:58.959262+07:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\smoke.xnb</Output>
+      <Time>2011-03-01T20:21:14.8191303+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Funny-Foods\wg7\wg7Content\</RootDirectory>
+      <LoggerRootDirectory>H:\Funny-Foods\wg7\wg7\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Funny-Foods\wg7\wg7Content\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Funny-Foods\wg7\wg7\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-27T10:40:46.1351313+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
